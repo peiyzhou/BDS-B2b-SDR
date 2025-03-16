@@ -1,1 +1,5 @@
 # BDS-B2b-SDR
+
+Thanks to its high cost-effectiveness and flexibility, Global Navigation Satellite System (GNSS) Software-Defined Receiver (SDR) has been widely used in the GNSS academic research and industrial developments. As a pivotal component of the Chinese BeiDou Navigation Satellite System (BDS) navigation satellite signal portfolio, the B2b signal is newly introduced and disseminated by the third generation of BDS (BDS-3) satellites, which provides both Radio Navigation Satellite System (RNSS) service as well as the Precise Point Positioning (PPP-B2b) service. To promote the research and application of BDS-3 B2b signals, we developed and open-sourced a MATLAB package for BDS B2b signal processing functionalities, including display, acquisition, tracking, telemetry decoding, and positioning. The developed BDS B2b SDR features and code architecture are introduced in details, and sample datasets are collected for performance assessment.
+
+Interested users could refer to https://github.com/gnsscusdr/CU-SDR-Collection for the processing of other GNSS signals.
