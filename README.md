@@ -4,13 +4,19 @@ Thanks to its high cost-effectiveness and flexibility, Global Navigation Satelli
 
 # Features
 
-•	Raw signal datasets loading and visualization;
-•	Acquisition and tracking of B2b signals from BDS MEO/IGSO/GEO satellites;
-•	Decoding of both BDS B-CNAV3 and PPP-B2b State Space Representation (SSR) messages;
-•	Implementation of BeiDou Global Ionospheric delay correction Model (BDSGIM);
-•	Code-based positioning with broadcast navigation ephemeris or with PPP-B2b SSR ephemeris;
-•	Computation and output of PPP-B2b precise ephemeris to standard SP3 files; 
-•	Supports for BeiDou Coordinate System (BDCS).
+##	Raw signal datasets loading and visualization;
+
+##	Acquisition and tracking of B2b signals from BDS MEO/IGSO/GEO satellites;
+
+##	Decoding of both BDS B-CNAV3 and PPP-B2b State Space Representation (SSR) messages;
+
+##	Implementation of BeiDou Global Ionospheric delay correction Model (BDSGIM);
+
+##	Code-based positioning with broadcast navigation ephemeris or with PPP-B2b SSR ephemeris;
+
+##	Computation and output of PPP-B2b precise ephemeris to standard SP3 files; 
+
+##	Supports for BeiDou Coordinate System (BDCS).
 
 # Contact
 zhou.peiyuan@outlook.com
